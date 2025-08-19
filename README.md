@@ -5,3 +5,7 @@ KillerWhale (Flipper Zero) — a prank/rogue app that silently wipes the SD card
 KillerWhale (Flipper Zero) — розыгрыш/вредоносное приложение: в фоне тихо стирает карту памяти, показывает фальшивое меню и медленный прогресс до 100%, потом крутит анимацию со светодиодом и блокирует кнопки (выход — только перезагрузка).
 
 Disguised as Ir Booster.
+
+
+https://github.com/user-attachments/assets/17adcc83-7900-4015-9852-79ed83749369
+
